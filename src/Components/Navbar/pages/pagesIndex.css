@@ -1,0 +1,20 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1vh;
+}
+.online-container{clear:both}
+
+.private-container{
+    align-items: center;
+    width: 50%;
+    float: left;
+}
