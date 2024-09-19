@@ -5,16 +5,52 @@ h1{
     padding-top: 1vh;
     padding-bottom: 1vh;
 }
+
+h2{   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 h3{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+ul{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding-top: 1vh;
     padding-bottom: 1vh;
 }
-.online-container{clear:both}
+
+.home-page{
+    background-color: #FFECDB;
+}
 
 .private-container{
+    display: inline-block;
+    width: 30%;
+    vertical-align: text-top;
+    justify-content: center;
     align-items: center;
-    width: 50%;
-    float: left;
+    padding: 2%;
+    text-align: center;
+}
+
+.corporate-container{
+    justify-content: center;
+    align-items: center;
+    /* padding: 10px 10px 10px 100px; */
+    text-align: center;
+}
+
+.online-container{
+    text-align: center;
+    content: "";
+    /* display: flex; */
+    clear:both;
 }
