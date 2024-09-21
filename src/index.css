@@ -2,6 +2,24 @@
   /* background-color: #FFECDB; */
 }
 
+@font-face {
+  font-family: "GentyRegular";
+  src: local("GentyRegular"),
+    url("./MyWebfontsKit/webFonts/GentyRegular/font.woff") format("opentype");
+}
+
+@font-face {
+  font-family: "GentySans";
+  src: local("GentySans"),
+    url("./MyWebfontsKit/webFonts/GentySans/font.woff") format("opentype");
+}
+
+/* @font-face {
+  font-family: "Farro-Regular";
+  src: local("Farro-Regular"),
+    url("./Farro/Farro-Regular.ttf") format("opentype");
+} */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

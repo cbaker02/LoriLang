@@ -80,7 +80,7 @@ const Home = () => {
         </div>
           <div className='corporate-container'>
             <div className="lesson-type">
-              <h2>Online or at Your location</h2>
+              <h3>online or at your location</h3>
             </div>
             <ul className='pros'>
               <li>Class for 2-5 students</li>

@@ -1,18 +1,25 @@
+*{
+    color: #0A3055;
+}
 h1{
+    font-family: GentyRegular;
     display: flex;
     align-items: center;
     justify-content: center;
     padding-top: 1vh;
     padding-bottom: 1vh;
+    /* color: #000036; */
 }
 
 h2{   
+    font-family: GentyRegular;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 h3{
+    font-family: GentySans;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,9 +32,12 @@ ul{
     text-align: left;
     padding-top: 1vh;
     padding-bottom: 1vh;
+    font-family: Farro;
 }
 
 .home-page{
+    padding-top: 1vh;
+    padding-bottom: 5vh;
     background-color: #FFECDB;
 }
 
